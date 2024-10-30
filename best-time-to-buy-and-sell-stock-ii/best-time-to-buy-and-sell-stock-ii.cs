@@ -1,17 +1,23 @@
 public class Solution {
-    public int MaxProfit(int[] prices) {
+    public int MaxProfit(int[] prices) { 
         int n = prices.Length;
-        int maxProfit=0;
-        if(n==0){
-            return 0;
-        }
-        for(int i=1;i<n;i++)
+        int currBuy = prices[n-1];
+        int currMin = prices[n-1];
+        int maxProfit =0;
+        for (int i=0;i<n;i++)
         {
-            if(prices[i-1]<prices[i])
+            if(prices[n-1-i]>currMin)
             {
-                maxProfit+=prices[i]-prices[i-1];
+                maxProfit += currBuy-currMin;
+                currBuy = prices[n-1-i];
+                currMin = prices[n-1-i];
+            }
+            if(prices[n-1-i]<currMin)
+            {
+                currMin = prices[n-1-i];
             }
         }
+        maxProfit += currBuy-currMin;
         return maxProfit;
     }
 }
