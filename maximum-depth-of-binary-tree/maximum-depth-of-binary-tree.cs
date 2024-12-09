@@ -12,7 +12,8 @@
  * }
  */
 public class Solution {
-    private int max_Depth;
+    //Solution 1
+    /*private int max_Depth;
     public int MaxDepth(TreeNode root) {
         max_Depth = 0;
         max_Depth = Traverse(root, 0);
@@ -29,5 +30,12 @@ public class Solution {
            max_Depth = max_Depth>layer ? max_Depth : layer; 
         }
         return max_Depth;
+    }*/
+    //Solution 2
+    public int MaxDepth(TreeNode root) {
+        if(root == null){
+            return 0;
+        }
+        return Math.Max(MaxDepth(root.left), MaxDepth(root.right))+1;
     }
 }
