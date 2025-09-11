@@ -1,28 +1,23 @@
 public class Solution {
     public int LengthOfLongestSubstring(string s) {
-        int total = 0;
-        if( s.Length == 0 || s.Length == 1)
-        {
-            return s.Length;
-        }
-        for (int i = 0; i< s.Length-1; i++)
-        {
-            string res="";
-            for(int j = i;j<s.Length;j++)
-            {
-                if(!res.Contains(s[j]))
-                {
-                    res += s[j];
-                }
-                else{
-                    break;
-                }
+        Dictionary<char, int> lastSeen = new Dictionary<char, int>();
+        int left = 0, maxLen = 0;
+
+        for (int right = 0; right < s.Length; right++) {
+            char c = s[right];
+
+            // If c was seen inside the current window, move left
+            if (lastSeen.ContainsKey(c) && lastSeen[c] >= left) {
+                left = lastSeen[c] + 1;
             }
-            if(res.Length > total)
-            {
-                total = res.Length;
-            }
+
+            // Update last seen index
+            lastSeen[c] = right;
+
+            // Update max length
+            maxLen = Math.Max(maxLen, right - left + 1);
         }
-        return total;
+
+        return maxLen;
     }
 }
