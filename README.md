@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ramyak457/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ramyak457/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramyak457/Leetcode/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/ramyak457/Leetcode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramyak457/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
@@ -24,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramyak457/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ramyak457/Leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/ramyak457/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
