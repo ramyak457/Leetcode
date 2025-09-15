@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramyak457/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ramyak457/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/ramyak457/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/ramyak457/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramyak457/Leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/ramyak457/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/ramyak457/Leetcode/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramyak457/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ramyak457/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ramyak457/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramyak457/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ramyak457/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -70,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ramyak457/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ramyak457/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ramyak457/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
