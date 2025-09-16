@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramyak457/Leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/ramyak457/Leetcode/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/ramyak457/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/ramyak457/Leetcode/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramyak457/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
@@ -80,5 +81,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ramyak457/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/ramyak457/Leetcode/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/ramyak457/Leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
