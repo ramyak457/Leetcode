@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ramyak457/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/ramyak457/Leetcode/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramyak457/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/ramyak457/Leetcode/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ramyak457/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ramyak457/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramyak457/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ramyak457/Leetcode/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ramyak457/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ramyak457/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ramyak457/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramyak457/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/ramyak457/Leetcode/tree/master/0200-number-of-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ramyak457/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ramyak457/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/ramyak457/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ramyak457/Leetcode/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -112,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ramyak457/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/ramyak457/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ramyak457/Leetcode/tree/master/0394-decode-string) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ramyak457/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
