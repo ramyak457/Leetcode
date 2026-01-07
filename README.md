@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramyak457/Leetcode/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/ramyak457/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ramyak457/Leetcode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/ramyak457/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/ramyak457/Leetcode/tree/master/0079-word-search) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramyak457/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/ramyak457/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ramyak457/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ramyak457/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Sorting
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ramyak457/Leetcode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/ramyak457/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/ramyak457/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ramyak457/Leetcode/tree/master/0200-number-of-islands) |
